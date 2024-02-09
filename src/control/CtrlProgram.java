@@ -4,14 +4,17 @@ import java.util.Scanner;
 import model.Employee;
 import model.TaxCalculator;
 
-/*
- * Developer: Clinio Marcelino de Freitas
+/**
+ * @author Clinio Marcelino de Freitas
  * 
  * Lewis University
  * Class: Object-Oriented Programming
  * 
  * Program for calculating income taxes in a country called Java Land using J$
  * J$ stands for Javean Dollars
+ * 
+ * @version 1.1
+ * @date Feb 7 2024
  * 
  */
  
